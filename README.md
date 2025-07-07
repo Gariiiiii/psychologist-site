@@ -70,3 +70,9 @@ Open [http://localhost:3000](http://localhost:3000) to view.
 
 ---
 
+🌐 Live Site
+
+https://psychologist-site.netlify.app/
+
+
+
